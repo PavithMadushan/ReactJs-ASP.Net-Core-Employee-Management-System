@@ -98,7 +98,7 @@ namespace backend.Controllers
         {
             var employee= dbContext.Employees.Find(id); 
             if (employee == null) {
-            return NotFound();}
+            return NotFound("user not found");}
 
             dbContext.Employees.Remove(employee); 
             dbContext.SaveChanges();

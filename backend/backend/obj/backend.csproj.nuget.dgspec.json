@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Interivews\\Pacificcode\\EmpManagementSystem\\backend\\backend\\backend.csproj": {}
+    "D:\\Interivews\\Pacificcode\\EmpManagementSystem2\\ReactJs-ASP.Net-Core-Employee-Management-System\\backend\\backend\\backend.csproj": {}
   },
   "projects": {
-    "D:\\Interivews\\Pacificcode\\EmpManagementSystem\\backend\\backend\\backend.csproj": {
+    "D:\\Interivews\\Pacificcode\\EmpManagementSystem2\\ReactJs-ASP.Net-Core-Employee-Management-System\\backend\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Interivews\\Pacificcode\\EmpManagementSystem\\backend\\backend\\backend.csproj",
+        "projectUniqueName": "D:\\Interivews\\Pacificcode\\EmpManagementSystem2\\ReactJs-ASP.Net-Core-Employee-Management-System\\backend\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "D:\\Interivews\\Pacificcode\\EmpManagementSystem\\backend\\backend\\backend.csproj",
+        "projectPath": "D:\\Interivews\\Pacificcode\\EmpManagementSystem2\\ReactJs-ASP.Net-Core-Employee-Management-System\\backend\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\PAVITH\\.nuget\\packages\\",
-        "outputPath": "D:\\Interivews\\Pacificcode\\EmpManagementSystem\\backend\\backend\\obj\\",
+        "outputPath": "D:\\Interivews\\Pacificcode\\EmpManagementSystem2\\ReactJs-ASP.Net-Core-Employee-Management-System\\backend\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PAVITH\\AppData\\Roaming\\NuGet\\NuGet.Config",
