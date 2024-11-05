@@ -273,3 +273,13 @@ D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Man
 D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\obj\Debug\net8.0\backend.dll
 D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\obj\Debug\net8.0\refint\backend.dll
 D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\obj\Debug\net8.0\backend.pdb
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\bin\Debug\net8.0\appsettings.json
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\bin\Debug\net8.0\backend.exe
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\bin\Debug\net8.0\backend.deps.json
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\bin\Debug\net8.0\backend.dll
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\bin\Debug\net8.0\backend.pdb
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+D:\Interivews\Pacificcode\EmpManagementSystem2\ReactJs-ASP.Net-Core-Employee-Management-System\backend\backend\obj\Debug\net8.0\ref\backend.dll
